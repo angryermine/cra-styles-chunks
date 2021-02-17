@@ -11,6 +11,9 @@
 # production
 /build
 
+# cra
+react-app-env.d.ts
+
 # misc
 .DS_Store
 .env.local
